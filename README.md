@@ -25,3 +25,8 @@ upstream-reflection-project/
 ## 検証
 `samples/` の合成ペアで受け入れ確認（再現率・除外トラップ）を行える。詳細は
 [samples/03_期待候補_answer-key.md](samples/03_期待候補_answer-key.md)。
+
+## 別環境のスキルと比較・マージする
+このスキルを別PCで取得し、そちらのスキルと比較・統合したい場合は
+[MERGE-BRIEF.md](MERGE-BRIEF.md) を参照。クローン後にその指示書を Claude Code に読ませると、
+2スキルの比較→統合版作成が始まる。
