@@ -1,0 +1,13 @@
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ローカルのフィードバックログ（雛形 feedback-log.template.md は残す）
+**/log_*.md
+**/feedback/feedback-log_*.md
+
+# エディタ
+.vscode/
+.idea/
+*.swp
